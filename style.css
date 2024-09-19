@@ -1,0 +1,26 @@
+/* Style CSS */
+
+body{
+    background: beige;
+}
+.header{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ; 
+}
+#odin{
+    text-align: left;
+    font-size: 100px;
+    color: darkslategray;
+}
+p,ul,ol,li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+p{
+    color: skyblue;
+}
+#about{
+    font-size: 25px;
+}
+
