@@ -1,26 +1,44 @@
-/* Style CSS */
+/* Odin Recipes CSS */
 
 body{
     background: beige;
+    padding: 10px;
 }
 .header{
     color: black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
 }
+
 #odin{
     text-align: left;
     font-size: 100px;
     color: darkslategray;
 }
-p,ul,ol,li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-}
 
-p{
-    color: skyblue;
-}
 #about{
     font-size: 25px;
 }
 
+
+
+p,ul,ol,li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: darkslategray; 
+}
+
+
+
+
+
+
+
+
+
+
+/* Ahi Tuna Page CSS */
+
+
+/* Paella Page CSS */
+
+
+/* Wings Page CSS */
